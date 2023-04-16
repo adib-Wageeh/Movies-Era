@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+Movie App that fetches data from TMDB api
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230416_202852](https://user-images.githubusercontent.com/87152219/232334213-9999df5b-b317-4a26-8edb-36ffac1f219c.jpg)
+![Screenshot_20230416_202907](https://user-images.githubusercontent.com/87152219/232334220-d626d130-91a5-4717-a01d-3bdd8596dac8.jpg)
+![Screenshot_20230416_202927](https://user-images.githubusercontent.com/87152219/232334223-826ce95e-2486-4f37-b000-c8ec128e7393.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TMDB api: https://www.themoviedb.org/documentation/api
